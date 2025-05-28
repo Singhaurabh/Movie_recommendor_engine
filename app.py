@@ -31,7 +31,7 @@ def get_base64_encoded_image(path):
         return base64.b64encode(img_file.read()).decode()
 
 # Load the image and encode
-local_img_path = "template\cinematography-symbols-black-background.jpg"
+local_img_path = "template/cinematography-symbols-black-background.jpg"
 encoded_img = get_base64_encoded_image(local_img_path)
 
 # Custom CSS to remove top black patch and make widgets transparent
