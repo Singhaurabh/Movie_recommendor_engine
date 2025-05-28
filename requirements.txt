@@ -2,3 +2,4 @@ Flask
 streamlit
 Numpy
 Pandas 
+gunicorn
