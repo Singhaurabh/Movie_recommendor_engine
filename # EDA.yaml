@@ -1,0 +1,25 @@
+# EDA
+1- finding the missing values in the data
+    - homepage                3091
+    - overview                   3
+    - release_date               1
+    - runtime                    2
+    - tagline                  844
+
+2 - Unwanted columns present in the dataset
+
+    - budget
+    - homepage
+    - original_language
+    - original_title
+    - production_companies
+    - production_countries
+    -  
+
+3 - change the data types of the columns
+
+    - keywords
+    - release_date
+    - genres
+    - cast
+    - crew
